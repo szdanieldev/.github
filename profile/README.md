@@ -1,7 +1,6 @@
 # Hey! i'm daniel
 
 just a webdev from hungary. \
-currently working on **OneHorizon**.
 
 i make stuff that sometimes works.
 
