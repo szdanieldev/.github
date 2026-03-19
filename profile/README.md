@@ -10,4 +10,4 @@ i make stuff that sometimes works.
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)\
-**mail:** [daniel.szilagyi012@icloud.com](mailto:daniel.szilagyi012@icloud.com)
+**contact:** [daniel.szilagyi012@icloud.com](mailto:daniel.szilagyi012@icloud.com)
